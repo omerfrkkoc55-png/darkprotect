@@ -1,0 +1,4 @@
+{
+  "app": {"version": "1", "url": "https://example.com/", "notes": ""},
+  "signatures": {"version": "2026.11.17", "url": "imzalar.txt", "sha256": "68526e39e7b82eafe6069030fca25e699b5514f7bbc43e21b0ec20ec23971835", "count": 1}
+}
