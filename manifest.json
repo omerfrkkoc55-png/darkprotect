@@ -1,4 +1,4 @@
 {
   "app": {"version": "1", "url": "https://example.com/", "notes": ""},
-  "signatures": {"version": "2026.11.18", "url": "imzalar.txt", "sha256": "a77b61fca20ef45041b3bf8b80e85b0e5ba4749e9a4b423012eb79e5ef3b9520", "count": 1}
+  "signatures": {"version": "2026.11.18", "url": "imzalar.txt", "sha256": "5390905371cd254f7aa666f055fae747c7b114151c71d495918d266f67266634", "count": 1}
 }
